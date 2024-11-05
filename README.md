@@ -1,7 +1,3 @@
-Here's an updated `README.md` without using the `thsai` name. This README template provides clear setup instructions and usage guidance for a generic Twitter API integration.
-
----
-
 # Twitter API Integration
 
 Welcome to the Twitter API Integration project! This Python-based interface simplifies interactions with the Twitter API, providing easy access to Twitter data for analysis and management.
