@@ -97,6 +97,3 @@ Contributions are welcome! If you'd like to improve this project:
 
 This project is licensed under the MIT License.
 
----
-
-**Enjoy using this Twitter API Integration for your projects!**
